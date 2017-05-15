@@ -6,7 +6,7 @@ Now I wrote the bat file. Help people to ban the SMBV1 protocolto to resist the 
 Please run the script with the **administrator**.
 
 
-###Check SMB via powershell
+### Check SMB via powershell
 
 open powershell.exe
 ```
